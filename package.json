@@ -1,0 +1,18 @@
+{
+  "name": "jolis-coeurs-etoiles-lunes",
+  "version": "1.0.0",
+  "description": "Archive poétique des cœurs, étoiles et lunes du monde",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "leaflet": "^1.9.4"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
